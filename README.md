@@ -1,7 +1,9 @@
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ## Design Patterns via Java
 ### The project contains design patterns (templates) via Java.
 
-<img src="https://im.wampi.ru/2022/11/12/d-p.jpg" alt="drawing" width="1050"/>
+<img src="images/patterns_rep.png" alt="drawing" width="1100"/>
 
 ***Repository content:***
 
