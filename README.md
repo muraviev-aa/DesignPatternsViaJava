@@ -15,7 +15,7 @@
 <details>
   <summary>strategy</summary>
   <ol>
-<img src="images/strategy.bmp" alt="drawing" width="1100"/>
+<img src="images/strategy.bmp" alt="drawing" width="900"/>
   </ol>
 </details>
 
