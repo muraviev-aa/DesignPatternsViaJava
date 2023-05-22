@@ -9,6 +9,10 @@
 
 ***Repository content:***
 
+***Click on the icon***
+<img src="images/triangle.png" style="margin-bottom: 0px;" alt="drawing" width="25"/>
+***in the text below and get a picture with a UML class diagram.***
+
 <strong>&#128194; BehavioralPatterns </strong>
 
 <!-- TABLE OF CONTENTS -->
