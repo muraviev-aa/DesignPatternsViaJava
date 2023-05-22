@@ -13,9 +13,17 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Strategy</summary>
+  <summary>strategy</summary>
   <ol>
 <img src="images/strategy.bmp" alt="drawing" width="1100"/>
+  </ol>
+</details>
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>strategy1</summary>
+  <ol>
+<img src="images/strategy1.bmp" alt="drawing" width="1100"/>
   </ol>
 </details>
 
@@ -23,7 +31,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Builder</summary>
+  <summary>builder</summary>
   <ol>
 
   </ol>
@@ -31,7 +39,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Singleton</summary>
+  <summary>singleton</summary>
   <ol>
 
   </ol>
@@ -41,7 +49,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Adapter</summary>
+  <summary>adapter</summary>
   <ol>
 
   </ol>
@@ -49,7 +57,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Decorator</summary>
+  <summary>decorator</summary>
   <ol>
 
   </ol>
