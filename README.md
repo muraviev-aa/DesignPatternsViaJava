@@ -26,6 +26,14 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
+  <summary>observer1 (with lambda)</summary>
+  <ol>
+<img src="images/observer1.bmp" alt="drawing" width="800"/>
+  </ol>
+</details>
+
+<!-- TABLE OF CONTENTS -->
+<details>
   <summary>strategy</summary>
   <ol>
 <img src="images/strategy.bmp" alt="drawing" width="800"/>
@@ -34,7 +42,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>strategy1 (lambda)</summary>
+  <summary>strategy1 (with lambda)</summary>
   <ol>
 <img src="images/strategy1.bmp" alt="drawing" width="1100"/>
   </ol>
