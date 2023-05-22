@@ -18,6 +18,14 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
+  <summary>observer</summary>
+  <ol>
+<img src="images/observer.bmp" alt="drawing" width="800"/>
+  </ol>
+</details>
+
+<!-- TABLE OF CONTENTS -->
+<details>
   <summary>strategy</summary>
   <ol>
 <img src="images/strategy.bmp" alt="drawing" width="800"/>
