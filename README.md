@@ -2,7 +2,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## Design Patterns via Java
-
+<a name="readme-top"></a>
 ### The project contains design patterns (templates) via Java.
 
 <img src="images/patterns_rep.png" alt="drawing" width="1100"/>
@@ -15,7 +15,7 @@
 <details>
   <summary>strategy</summary>
   <ol>
-<img src="images/strategy.bmp" alt="drawing" width="900"/>
+<img src="images/strategy.bmp" alt="drawing" width="800"/>
   </ol>
 </details>
 
@@ -62,3 +62,5 @@
 
   </ol>
 </details>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
