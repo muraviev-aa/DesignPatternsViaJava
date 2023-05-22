@@ -26,7 +26,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>strategy1</summary>
+  <summary>strategy1 (lambda)</summary>
   <ol>
 <img src="images/strategy1.bmp" alt="drawing" width="1100"/>
   </ol>
