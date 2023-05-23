@@ -82,7 +82,7 @@
 <details>
   <summary>decorator</summary>
   <ol>
-
+<img src="images/decorator.bmp" alt="drawing" width="1100"/>
   </ol>
 </details>
 
