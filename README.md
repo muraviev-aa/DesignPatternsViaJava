@@ -3,7 +3,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## Design Patterns via Java
+
 <a name="readme-top"></a>
+
 ### The project contains design patterns (templates) via Java.
 
 <img src="images/patterns_rep.png" alt="drawing" width="1100"/>
@@ -62,7 +64,7 @@
 <details>
   <summary>singleton</summary>
   <ol>
-
+<img src="images/singleton .bmp" alt="drawing" width="500"/>
   </ol>
 </details>
 
