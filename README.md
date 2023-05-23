@@ -64,7 +64,7 @@
 <details>
   <summary>singleton</summary>
   <ol>
-<img src="images/singleton.bmp" alt="drawing" width="500"/>
+<img src="images/singleton.bmp" alt="drawing" width="600"/>
   </ol>
 </details>
 
@@ -74,7 +74,7 @@
 <details>
   <summary>adapter</summary>
   <ol>
-<img src="images/adapter.bmp" alt="drawing" width="500"/>
+<img src="images/adapter.bmp" alt="drawing" width="1100"/>
   </ol>
 </details>
 
