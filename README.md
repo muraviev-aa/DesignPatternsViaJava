@@ -56,7 +56,7 @@
 <details>
   <summary>builder</summary>
   <ol>
-
+<img src="images/builder.bmp" alt="drawing" width="1100"/>
   </ol>
 </details>
 
