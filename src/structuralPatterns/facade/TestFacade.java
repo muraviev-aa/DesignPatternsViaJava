@@ -1,7 +1,6 @@
 package structuralPatterns.facade;
 
 
-
 public class TestFacade {
     public static void main(String[] args) {
         /* Создание экземпляров компонентов */

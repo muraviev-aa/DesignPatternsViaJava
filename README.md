@@ -20,6 +20,14 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
+  <summary>iterator</summary>
+  <ol>
+
+  </ol>
+</details>
+
+<!-- TABLE OF CONTENTS -->
+<details>
   <summary>observer</summary>
   <ol>
 <img src="images/observer.bmp" alt="drawing" width="800"/>
@@ -83,6 +91,14 @@
   <summary>decorator</summary>
   <ol>
 <img src="images/decorator.bmp" alt="drawing" width="1100"/>
+  </ol>
+</details>
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>facade</summary>
+  <ol>
+<img src="images/facade.bmp" alt="drawing" width="1100"/>
   </ol>
 </details>
 
