@@ -1,4 +1,4 @@
-package creationalPatterns.fabrica;
+package creationalPatterns.factory;
 
 public abstract class Pizza {
     public abstract void prepare();

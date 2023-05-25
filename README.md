@@ -76,6 +76,14 @@
   </ol>
 </details>
 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>factory</summary>
+  <ol>
+<img src="images/fabrica.bmp" alt="drawing" width="600"/>
+  </ol>
+</details>
+
 <strong>&#128194; StructuralPatterns </strong>
 
 <!-- TABLE OF CONTENTS -->

@@ -1,4 +1,4 @@
-package creationalPatterns.fabrica;
+package creationalPatterns.factory;
 
 public class PizzaStore {
     SimplePizzaFactory factory;
