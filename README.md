@@ -80,7 +80,7 @@
 <details>
   <summary>factory</summary>
   <ol>
-<img src="images/fabrica.bmp" alt="drawing" width="600"/>
+<img src="images/fabrica.bmp" alt="drawing" width="1100"/>
   </ol>
 </details>
 
