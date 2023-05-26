@@ -88,7 +88,7 @@
 <details>
   <summary>factory1 (with lambda)</summary>
   <ol>
-<img src="images/fabrica.bmp" alt="drawing" width="1100"/>
+<img src="images/fabrica1.bmp" alt="drawing" width="1100"/>
   </ol>
 </details>
 
