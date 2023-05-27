@@ -28,9 +28,25 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
+  <summary>chainOfResponsibility1 (with lambda)</summary>
+  <ol>
+without UML diagram
+  </ol>
+</details>
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>chainOfResponsibility2</summary>
+  <ol>
+<img src="images/chain2.bmp" alt="drawing" width="1100"/>
+  </ol>
+</details>
+
+<!-- TABLE OF CONTENTS -->
+<details>
   <summary>iterator</summary>
   <ol>
-
+without UML diagram
   </ol>
 </details>
 
