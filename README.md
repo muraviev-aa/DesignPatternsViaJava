@@ -20,6 +20,14 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
+  <summary>chainOfResponsibility</summary>
+  <ol>
+<img src="images/chain.bmp" alt="drawing" width="1100"/>
+  </ol>
+</details>
+
+<!-- TABLE OF CONTENTS -->
+<details>
   <summary>iterator</summary>
   <ol>
 
