@@ -68,6 +68,14 @@ without UML diagram
 
 <!-- TABLE OF CONTENTS -->
 <details>
+  <summary>observer2 (with Swing)</summary>
+  <ol>
+<img src="images/observer2.bmp" alt="drawing" width="800"/>
+  </ol>
+</details>
+
+<!-- TABLE OF CONTENTS -->
+<details>
   <summary>strategy</summary>
   <ol>
 <img src="images/strategy.bmp" alt="drawing" width="800"/>
