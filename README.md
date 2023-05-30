@@ -130,7 +130,7 @@ without UML diagram
 <details>
   <summary>factory1 (with lambda)</summary>
   <ol>
-<img src="images/fabrica1.bmp" alt="drawing" width="800"/>
+<img src="images/fabrica1.bmp" alt="drawing" width="1100"/>
   </ol>
 </details>
 
@@ -138,7 +138,7 @@ without UML diagram
 <details>
   <summary>factoryMethod</summary>
   <ol>
-<img src="images/factoryMethod.bmp" alt="drawing" width="1100"/>
+<img src="images/factoryMethod.bmp" alt="drawing" width="800"/>
   </ol>
 </details>
 
