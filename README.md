@@ -8,7 +8,9 @@
 
 ### The project contains design patterns (templates) via Java.
 
+<p align="center">
 <img src="images/patterns_rep.png" alt="drawing" width="1100"/>
+</p>
 
 ***Repository content:***
 
